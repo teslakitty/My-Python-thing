@@ -1,2 +1,2 @@
-for i in range(5):
-  print('Aaaaaaaanbbhhbhbbhbhhbhbhbhbhbhbhbhbhbhbhbhhbhbhbhbhbhbhbhbhbhhbbhhbbhhbbhbhbhbhbhbhhbhbhbhbhbhbhbhbbhbhbhhbhbhbhhhbhbhbhbhbbhhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaa number:', 8888888)
+print("main.py")
+print("main.py is the file for the pyhon file type is .py")
